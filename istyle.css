@@ -1,0 +1,25 @@
+﻿.bkg{
+  opacity: 0.6;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
+div.content{
+    font-family: arial;
+    font-size: 20px;
+    background-color: azure;
+     
+}
+
+body{
+    background: url(image/bkg.jpg) no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div.nav{
+    
+}
